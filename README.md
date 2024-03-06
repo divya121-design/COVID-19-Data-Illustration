@@ -37,4 +37,4 @@ This study delves into the complexities of poor data illustration and proposes m
 - Pandas
 - Scikit-learn
 - Matplotlib
-- Seabor
+- Seaborn
