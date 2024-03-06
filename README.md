@@ -25,10 +25,16 @@ This study delves into the complexities of poor data illustration and proposes m
 
 ## Dependencies
 
+### R Visualization
+
+- R (>= 3.6.0)
+- ggplot2
+- dplyr
+
+### Python Modeling
+
 - Python 3.x
 - Pandas
+- Scikit-learn
 - Matplotlib
-- Seaborn
-
-##Contributors
-
+- Seabor
